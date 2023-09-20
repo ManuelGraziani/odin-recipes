@@ -1,0 +1,35 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: bisque;
+}
+#main-heading{
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    font-size: 50px;
+    color: red;
+    font-weight: bold;
+}
+
+.recipe-heading{
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-size: 40px;
+
+}
+
+.italic{
+    font-style: italic;
+}
+
+.center{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.food{
+    height: auto;
+    width: 500px;
+}
+
